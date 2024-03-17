@@ -1,5 +1,4 @@
 # Q音助手
-
 还你一个干净的Q音 Android 客户端。
 
 [![Build](https://github.com/zjns/QMHelper/workflows/Build/badge.svg)](https://github.com/zjns/QMHelper/actions)
